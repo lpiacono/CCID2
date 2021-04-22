@@ -1,0 +1,6 @@
+﻿{
+  "ClientID": "4274<<redacted>>",
+  "ClientSecret": "R0fy<<redacted>>",
+  "CID_File": ".\\ccidlist.csv",
+  "URL": "https://api.crowdstrike.com"
+}
